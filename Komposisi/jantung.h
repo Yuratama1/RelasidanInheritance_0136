@@ -1,5 +1,5 @@
 #ifndef JANTUNG_H
-#define  JNATUNG_H
+#define  JANTUNG_H
 using namespace std;
 
 class jantung{
